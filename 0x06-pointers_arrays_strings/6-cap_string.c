@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * *cap_string - function
  * @str: Pointer
