@@ -1,4 +1,4 @@
-#include"holberton.h"
+#include"main.h"
 /**
  * _strstr - locating a substring
  * @needle: occurance to find
